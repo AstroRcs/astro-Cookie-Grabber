@@ -4,4 +4,9 @@ This is our only official website + only official github account
 
 You will have to pay with robux on astro and get the product over discord(description on the homepage [Homepage](https://astro-rcs.com/)
 
-**IMPORTANT:**
+****IMPORTANT:****
+You can get the source code of the cookie grabber too!
+It will soon be added to our website to buy but by now you will have to buy it over discord (still with robux).
+
+discord user is ,,dupitdown"
+discord server here [astro discord server](https://discord.gg/dgynMTjpuQ)
